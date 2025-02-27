@@ -2,7 +2,7 @@
 COMPANY: CODTECH IT SOLUTIONS  NAME: ALAHARI ESWAR CHANDRA VIDYA SAGAR  INTERN ID:CT12SBA  DOMAIN: ARTIFICIAL INTELLIGENCE  DURATION: 8 WEEKS  MENTOR: NEELA SANTOSH
 
 
-DESCRIPTION
+# DESCRIPTION
 The code is designed to perform text summarization using the Hugging Face Transformers library. Specifically, it utilizes a pre-trained model to summarize a lengthy input text into a more concise version, making it easier to digest The task is to summarize a given text using a transformer-based model from Hugging Face. The pipeline being used is specifically for text summarization. This model takes an input text (usually long or complex), processes it, and returns a concise summary
 
 EDITOR PLATFORM: VS CODE
@@ -16,3 +16,7 @@ Summarize Function: summarize_text(input_text): This function initializes the su
 Main Block: The script runs the function if the script is executed directly, takes an article, and prints both the original text and its concise summary.
 
 Applicability: This code is primarily useful for: Content Summarization: It can be applied to automatically shorten long articles or documents, making them easier to digest. Automated Report Generation: This can be used for summarizing lengthy reports, research papers, news articles, etc. Natural Language Processing (NLP): This demonstrates a basic application of NLP, specifically in extracting the main ideas from larger bodies of text.
+
+# output
+![Screenshot (2)](https://github.com/user-attachments/assets/cd1f65ea-3edb-4fc9-b780-5c51ed975495)
+

@@ -1,8 +1,11 @@
 # TEXT--SUMMARIZATION-TOOL
-COMPANY: CODTECH IT SOLUTIONS  NAME: ALAHARI ESWAR CHANDRA VIDYA SAGAR  INTERN ID:CT12SBA  DOMAIN: ARTIFICIAL INTELLIGENCE  DURATION: 8 WEEKS  MENTOR: NEELA SANTOSH
 
 
 # DESCRIPTION
+
+COMPANY: CODTECH IT SOLUTIONS  NAME: ALAHARI ESWAR CHANDRA VIDYA SAGAR  INTERN ID:CT12SBA  DOMAIN: ARTIFICIAL INTELLIGENCE  DURATION: 8 WEEKS  MENTOR: NEELA SANTOSH
+
+
 The code is designed to perform text summarization using the Hugging Face Transformers library. Specifically, it utilizes a pre-trained model to summarize a lengthy input text into a more concise version, making it easier to digest The task is to summarize a given text using a transformer-based model from Hugging Face. The pipeline being used is specifically for text summarization. This model takes an input text (usually long or complex), processes it, and returns a concise summary
 
 EDITOR PLATFORM: VS CODE
